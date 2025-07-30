@@ -23,9 +23,6 @@ A comprehensive automated reconnaissance tool that combines subdomain enumeratio
 # Install required Python packages
 pip install sublist3r
 
-# Install system tools (Ubuntu/Debian)
-sudo apt install curl
-
 # Optional tools for full functionality
 sudo apt install gowitness arjun
 ```
